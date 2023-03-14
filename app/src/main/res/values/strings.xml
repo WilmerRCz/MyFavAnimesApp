@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nombre">Nombre</string>
+    <string name="ingresa_tus_datos">INGRESA TUS DATOS</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="correo">Correo</string>
+    <string name="apellido">Apellido</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="nuevo_anime">NUEVO ANIME</string>
+    <string name="spinner_category_animes">dropDownMenuExample</string>
+    <string name="editar_anime">EDITAR ANIME</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="imagen">Imagen</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="editar_anime_favorito">Editar anime favorito</string>
+    <string name="crear_anime_favorito">Crear anime favorito</string>
+    <string name="animes_favoritos">ANIMES FAVORITOS</string>
+    <string name="kimetsu_no_yaiba">Kimetsu no Yaiba</string>
+    <string name="shonen_demonios_samurai">Shonen, Demonios, Samurai.</string>
+    <string name="bienvenido_usermame">Bienvenido, $Usermame</string>
+    <string name="_25_09_2022">25/09/2022</string>
+    <string name="kimetsu_no_yaiba_tambi_n_conocida_bajo_su_nombre_en_ingl_s_demon_slayer_es_una_serie_de_manga_escrita_e_ilustrada_por_koyoharu_got_ge_cuya_publicaci_n_comenz_el_15_de_febrero_de_2016_en_la_revista_semanal_sh_kan_sh_nen_jump_de_la_editorial_sh_eisha">Kimetsu no Yaiba, también conocida bajo su nombre en inglés Demon Slayer, es una serie de manga escrita e ilustrada por Koyoharu Gotōge, cuya publicación comenzó el 15 de febrero de 2016 en la revista semanal Shūkan Shōnen Jump de la editorial Shūeisha.</string>
+    <string name="demonios">Demonios</string>
+    <string name="shonen">Shonen</string>
+    <string name="seleccione_una_categor_a">Seleccione una categoría:</string>
+    <string name="url_de_imagen">Url de imagen</string>
+</resources>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_edit_anime"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Editar"/>
+    <item
+        android:id="@+id/btn_delete_anime"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Eliminar"/>
+</menu>
