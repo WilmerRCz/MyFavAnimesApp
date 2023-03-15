@@ -8,4 +8,15 @@ MyFavAnimes is a mobile application developed in Kotlin for anime fans to save a
 <li>Material Design Components</li>
 
 <h2>📱 Screenshots</h2>
-![Image home app](https://asset.cloudinary.com/dp7brg2ul/1ad5cbb73d13062f22f8604e4ea2cb14)
+
+![imagen del splashScreen](https://res.cloudinary.com/dp7brg2ul/image/upload/v1678921845/MyFavAnimes/splashScreen_eezla4.jpg)
+
+![imagen del login](https://res.cloudinary.com/dp7brg2ul/image/upload/v1678921845/MyFavAnimes/login_afak7s.jpg)
+
+![imagen del register](https://res.cloudinary.com/dp7brg2ul/image/upload/v1678921845/MyFavAnimes/register_r3zx6v.jpg)
+
+![imagen del home](https://res.cloudinary.com/dp7brg2ul/image/upload/v1678921845/MyFavAnimes/home_j0ttz9.jpg)
+
+![imagen del anime](https://res.cloudinary.com/dp7brg2ul/image/upload/v1678921846/MyFavAnimes/anime_rcjfl7.jpg)
+
+![imagen del edit anime](https://res.cloudinary.com/dp7brg2ul/image/upload/v1678921845/MyFavAnimes/newEditAnime_j0rax3.jpg)
